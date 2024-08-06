@@ -1,1 +1,1 @@
-postgis/postgis:15-3.4
+postgis/postgis:15-3.5
